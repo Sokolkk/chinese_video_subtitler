@@ -1,4 +1,5 @@
 # Chinese Video Subtitler
+<img width="861" height="360" alt="image" src="https://github.com/user-attachments/assets/cfad2a2b-39f1-4e10-83e3-d8d8cbb3a937" />
 
 Программа с GUI, которая:
 - открывает китайское видео по кнопке;
